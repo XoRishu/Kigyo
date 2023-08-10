@@ -1,11 +1,11 @@
 [kigconfig]
-log = True
+log = "True"
 APP_ID = 10872193
-API_HASH = 7a2c777e52479d13fb1adb29944130cf
-TOKEN = 6158580139:AAFY-AwcxtmupB8srXBEbHQenKCS9lK3wnI
+API_HASH = "7a2c777e52479d13fb1adb29944130cf"
+TOKEN = "6158580139:AAFY-AwcxtmupB8srXBEbHQenKCS9lK3wnI"
 OWNER_ID = 5205602399
-OWNER_USERNAME = molesterishu
-SQLALCHEMY_DATABASE_URI = postgresql://wlywacfh:UGnK09rXIwWrgh5l9O0Okk-dieKiXpjP@raja.db.elephantsql.com/wlywacfh
+OWNER_USERNAME = "molesterishu"
+SQLALCHEMY_DATABASE_URI = "postgres://wlywacfh:UGnK09rXIwWrgh5l9O0Okk-dieKiXpjP@raja.db.elephantsql.com/wlywacfh"
 MESSAGE_DUMP = -1001451724150
 GBAN_LOGS = -1001451724150
 SYS_ADMIN =
